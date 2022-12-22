@@ -113,3 +113,5 @@ masukkan nilai asli untuk membandingkan error : 53.59815
 Error yang dihasilkan metode trapezoid : 2.074704189961281%
 Error yang dihasilkan metode romberg : 0.0008297459121720912%
 ```
+sehingga dari output tersebut dapat diperoleh error yang dihasilkan metode romberg dengan pias/interval yang sama dengan metode trapezoid
+menghasilkan perbedaan error yang cukup signifikan

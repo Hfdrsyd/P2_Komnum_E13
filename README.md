@@ -12,10 +12,11 @@ Untuk melakukan perhitungan diperlukan tabel romberg yang dinyatakan sebagai:
 
 dimana untuk setiap A_k merupakan perkiraan nilai integrasi dengan kaidah trapesium dengan pias n=2^k.
 selanjutnya untuk setiap B_k, C_k, D_k dengan extrapolasi Richardson diperoleh:
+
 ![image](https://user-images.githubusercontent.com/92217730/209086732-c62418d7-cf5d-49f5-826a-7feae04b5513.png)
 
 
 misalkan B merupakan index setelah A, C merupakan index setelah B dan seterusnya maka dapat dituliskan persamaan rekursif untuk mewakili A,B,C,...
-
 sebagai berikut:
+
 ![image](https://user-images.githubusercontent.com/92217730/209092419-68b30b37-195d-49f2-8e4b-f143b27ca698.png)

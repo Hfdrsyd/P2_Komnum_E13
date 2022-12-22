@@ -16,7 +16,7 @@ Untuk melakukan perhitungan diperlukan tabel romberg yang dinyatakan sebagai:
 ![image](https://user-images.githubusercontent.com/92217730/209085907-1ce2addf-634a-4a95-8920-1c7aa580da45.png)
 
 
-dimana untuk setiap A_k merupakan perkiraan nilai integrasi dengan kaidah trapesium dengan pias n=2^k.
+dimana untuk setiap A_k merupakan perkiraan nilai integrasi dengan metode trapezoid dengan pias n=2^k.
 selanjutnya untuk setiap B_k, C_k, D_k dengan extrapolasi Richardson diperoleh:
 
 ![image](https://user-images.githubusercontent.com/92217730/209086732-c62418d7-cf5d-49f5-826a-7feae04b5513.png)

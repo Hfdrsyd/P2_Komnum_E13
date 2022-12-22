@@ -2,7 +2,7 @@
 Praktikum 2 komputasi numerik kelas E kelompok 13
 integrasi romberg merupakan teknik yang digunakan dalam integrasi numerik untuk menganalisis kasus dimana fungsi yang akan diintegrasikan tersedia.
 Sedangkan integrasi numerik sendiri merupakan perhitungan aproksimasi luas daerah di bawah fungsi pada selang tertentu.
-Pada dasarnya integrasi romberg merupakan metode trapezoida yang diefisiensikan dengan extrapolasi richardson, sehingga menghasilkan galat yang sangat kecil.
+Pada dasarnya integrasi romberg merupakan metode trapezoida yang diefisiensikan dengan extrapolasi richardson, sehingga menghasilkan galat yang lebih kecil.
 Extrapolasi Richardson merupakan metode untuk mengkombinasikan dua perkiraan integral secara numerik untuk memperoleh nilai ketiga, yang lebih akurat.
 Setiap penerapan extrapolasi richardson akan menaikkan order galat pada hasil solusinya sebesar dua.
 

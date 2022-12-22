@@ -1,5 +1,11 @@
 # P2_Komnum_E13
 Praktikum 2 komputasi numerik kelas E kelompok 13
+
+kelompok 13:
+1. Muhammad Hafidh Rosyadi – 5025211013 
+2. Heru Dwi Kurniawan – 5025211055 
+3. Mohammad Ahnaf Fauzan – 5025211170
+
 integrasi romberg merupakan teknik yang digunakan dalam integrasi numerik untuk menganalisis kasus dimana fungsi yang akan diintegrasikan tersedia.
 Sedangkan integrasi numerik sendiri merupakan perhitungan aproksimasi luas daerah di bawah fungsi pada selang tertentu.
 Pada dasarnya integrasi romberg merupakan metode trapezoida yang diefisiensikan dengan extrapolasi richardson, sehingga menghasilkan galat yang lebih kecil.
@@ -114,4 +120,4 @@ Error yang dihasilkan metode trapezoid : 2.074704189961281%
 Error yang dihasilkan metode romberg : 0.0008297459121720912%
 ```
 sehingga dari output tersebut dapat diperoleh error yang dihasilkan metode romberg dengan pias/interval yang sama dengan metode trapezoid
-menghasilkan perbedaan error yang cukup signifikan
+menghasilkan perbedaan error yang cukup signifikan.(romberg jauh lebih akurat)

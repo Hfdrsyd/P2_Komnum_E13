@@ -24,6 +24,7 @@ sebagai berikut:
 #CODE
 
 #I/O
+```python
 Masukkan Batas bawah : 0
 Masukkan Batas atas : 4
 Jumlah Pias : 8
@@ -49,3 +50,4 @@ METODE ROMBERG : 53.59859472845862
 masukkan nilai asli untuk membandingkan error : 53.59815
 Error yang dihasilkan metode trapezoid : 2.074704189961281%
 Error yang dihasilkan metode romberg : 0.0008297459121720912%
+```
